@@ -2,7 +2,7 @@
 
 
 
-Canada's first and only prediction exchange. Trade shares on binary outcome markets (YES/NO) across sports, finance, politics, culture, and more.
+Canada's first and only prediction exchange. Trade shares on binary outcome markets across sports, finance, politics, culture, and more.
 
 ## What We Do
 
