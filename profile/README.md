@@ -1,11 +1,16 @@
-## Toronto Prediction Exchange
-<!--
+# Toronto Prediction Exchange
 
-**Here are some ideas to get you started:**
+Canada's first and only prediction exchange. Trade shares on binary outcome markets (YES/NO) across sports, finance, politics, culture, and more.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What We Do
+
+Toronto Prediction Exchange is a platform where users can trade shares on prediction markets using virtual currency (O$). Markets cover a wide range of topics, and users can place limit or market orders through an order book system. The platform features real-time trading, user profiles, leaderboards, and a REST API for programmatic access.
+
+## Current Status
+
+The platform currently operates using virtual currency (O$) for entertainment and educational purposes.
+
+## Contact
+
+- Website: [torontopx.ca](https://www.torontopx.ca)
+- Email: hello@torontopx.ca
