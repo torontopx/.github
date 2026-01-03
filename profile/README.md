@@ -1,4 +1,4 @@
-# <img width="28" height="28" alt="tpx-logo" src="https://github.com/user-attachments/assets/b42ca7b6-e41a-40f3-a39f-a4f74846b84d" /> Toronto Prediction Exchange
+# <img width="24" height="24" alt="tpx-logo" src="https://github.com/user-attachments/assets/b42ca7b6-e41a-40f3-a39f-a4f74846b84d" /> Toronto Prediction Exchange
 
 Canada's first and only prediction exchange. Trade shares on binary outcome markets across sports, finance, politics, culture, and more.
 
